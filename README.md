@@ -17,7 +17,7 @@ This project implements an enhanced version of the classic Pac-Man game in Java.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/vvsndattasailingam/Pacman-Game-.git
+   git clone https://github.com/vvsndattasailingam/Pacman-Game.git
    cd pac-man-game
    ```
 
